@@ -1,0 +1,10 @@
+C:\Users\Leshy\source\repos\lab2\Task5\bin\Debug\Task5.exe.config
+C:\Users\Leshy\source\repos\lab2\Task5\bin\Debug\Task5.exe
+C:\Users\Leshy\source\repos\lab2\Task5\bin\Debug\Task5.pdb
+C:\Users\Leshy\source\repos\lab2\Task5\bin\Debug\ClassLibrary1.dll
+C:\Users\Leshy\source\repos\lab2\Task5\bin\Debug\ClassLibrary1.pdb
+C:\Users\Leshy\source\repos\lab2\Task5\obj\Debug\Task5.csprojAssemblyReference.cache
+C:\Users\Leshy\source\repos\lab2\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Leshy\source\repos\lab2\Task5\obj\Debug\Task5.csproj.CopyComplete
+C:\Users\Leshy\source\repos\lab2\Task5\obj\Debug\Task5.exe
+C:\Users\Leshy\source\repos\lab2\Task5\obj\Debug\Task5.pdb

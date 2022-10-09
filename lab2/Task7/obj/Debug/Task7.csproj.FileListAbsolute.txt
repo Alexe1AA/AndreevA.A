@@ -1,0 +1,10 @@
+C:\Users\Leshy\source\repos\lab2\Task7\bin\Debug\Task7.exe.config
+C:\Users\Leshy\source\repos\lab2\Task7\bin\Debug\Task7.exe
+C:\Users\Leshy\source\repos\lab2\Task7\bin\Debug\Task7.pdb
+C:\Users\Leshy\source\repos\lab2\Task7\bin\Debug\ClassLibrary1.dll
+C:\Users\Leshy\source\repos\lab2\Task7\bin\Debug\ClassLibrary1.pdb
+C:\Users\Leshy\source\repos\lab2\Task7\obj\Debug\Task7.csprojAssemblyReference.cache
+C:\Users\Leshy\source\repos\lab2\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+C:\Users\Leshy\source\repos\lab2\Task7\obj\Debug\Task7.csproj.CopyComplete
+C:\Users\Leshy\source\repos\lab2\Task7\obj\Debug\Task7.exe
+C:\Users\Leshy\source\repos\lab2\Task7\obj\Debug\Task7.pdb

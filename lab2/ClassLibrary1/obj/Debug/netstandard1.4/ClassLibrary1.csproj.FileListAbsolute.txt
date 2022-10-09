@@ -1,0 +1,16 @@
+C:\Users\Leshy\source\repos\lab2\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.deps.json
+C:\Users\Leshy\source\repos\lab2\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.dll
+C:\Users\Leshy\source\repos\lab2\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.pdb
+C:\Users\Leshy\source\repos\lab2\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\Leshy\source\repos\lab2\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Leshy\source\repos\lab2\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.AssemblyInfo.cs
+C:\Users\Leshy\source\repos\lab2\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.dll
+C:\Users\Leshy\source\repos\lab2\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.pdb
+C:\Users\Leshy\Desktop\lab2\lab2\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.deps.json
+C:\Users\Leshy\Desktop\lab2\lab2\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.dll
+C:\Users\Leshy\Desktop\lab2\lab2\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.pdb
+C:\Users\Leshy\Desktop\lab2\lab2\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\Leshy\Desktop\lab2\lab2\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Leshy\Desktop\lab2\lab2\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.AssemblyInfo.cs
+C:\Users\Leshy\Desktop\lab2\lab2\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.dll
+C:\Users\Leshy\Desktop\lab2\lab2\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.pdb
