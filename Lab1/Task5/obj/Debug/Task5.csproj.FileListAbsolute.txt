@@ -1,0 +1,6 @@
+C:\Users\Leshy\source\repos\Lab1\Task5\bin\Debug\Task5.exe.config
+C:\Users\Leshy\source\repos\Lab1\Task5\bin\Debug\Task5.exe
+C:\Users\Leshy\source\repos\Lab1\Task5\bin\Debug\Task5.pdb
+C:\Users\Leshy\source\repos\Lab1\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Leshy\source\repos\Lab1\Task5\obj\Debug\Task5.exe
+C:\Users\Leshy\source\repos\Lab1\Task5\obj\Debug\Task5.pdb
