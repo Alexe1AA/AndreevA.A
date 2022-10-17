@@ -4,3 +4,9 @@ C:\Users\Leshy\source\repos\Lab1\Task7\bin\Debug\Task7.exe
 C:\Users\Leshy\source\repos\Lab1\Task7\bin\Debug\Task7.pdb
 C:\Users\Leshy\source\repos\Lab1\Task7\obj\Debug\Task7.exe
 C:\Users\Leshy\source\repos\Lab1\Task7\obj\Debug\Task7.pdb
+D:\D\AndreevA.A\Lab1\Task7\bin\Debug\Task7.exe.config
+D:\D\AndreevA.A\Lab1\Task7\bin\Debug\Task7.exe
+D:\D\AndreevA.A\Lab1\Task7\bin\Debug\Task7.pdb
+D:\D\AndreevA.A\Lab1\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+D:\D\AndreevA.A\Lab1\Task7\obj\Debug\Task7.exe
+D:\D\AndreevA.A\Lab1\Task7\obj\Debug\Task7.pdb

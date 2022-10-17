@@ -8,3 +8,13 @@ C:\Users\Leshy\source\repos\lab2\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.
 C:\Users\Leshy\source\repos\lab2\Task4\obj\Debug\Task4.csproj.CopyComplete
 C:\Users\Leshy\source\repos\lab2\Task4\obj\Debug\Task4.exe
 C:\Users\Leshy\source\repos\lab2\Task4\obj\Debug\Task4.pdb
+D:\D\AndreevA.A\lab2\Task4\bin\Debug\Task4.exe.config
+D:\D\AndreevA.A\lab2\Task4\bin\Debug\Task4.exe
+D:\D\AndreevA.A\lab2\Task4\bin\Debug\Task4.pdb
+D:\D\AndreevA.A\lab2\Task4\bin\Debug\ClassLibrary1.dll
+D:\D\AndreevA.A\lab2\Task4\bin\Debug\ClassLibrary1.pdb
+D:\D\AndreevA.A\lab2\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+D:\D\AndreevA.A\lab2\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\D\AndreevA.A\lab2\Task4\obj\Debug\Task4.csproj.CopyComplete
+D:\D\AndreevA.A\lab2\Task4\obj\Debug\Task4.exe
+D:\D\AndreevA.A\lab2\Task4\obj\Debug\Task4.pdb

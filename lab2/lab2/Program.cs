@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Utility1Lab2;
+using LibUtilitys;
+using lab2.utilitys;
 
 namespace lab2
 {
@@ -11,13 +12,13 @@ namespace lab2
     {
         static void Main(string[] args)
         {
-            int[]arr = new int[20];
-            One_dimensional_array_methods.Filling(arr,"Random");
-            One_dimensional_array_methods.Print(arr);
-            One_dimensional_array_methods.BubbleSort(arr,"Up");
-            One_dimensional_array_methods.Print(arr);
-            One_dimensional_array_methods.Max(arr);
-            One_dimensional_array_methods.Min(arr);
+            int[]arr = new int[25];
+            ArrayMethods.FillingArray(arr);
+            ArrayMethods.Print(arr);
+			ArrMethods.BubbleSort(arr);
+            ArrayMethods.Print(arr);
+            Console.WriteLine("Max = " + ArrMethods.GetMax(arr));
+			Console.WriteLine("Min = " + ArrMethods.GetMin(arr));
             Console.ReadLine();
         }
     }

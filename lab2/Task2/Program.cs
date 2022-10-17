@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Utility2Lab2;
+using Task2.Utility;
 namespace Task2
 {
     class Program
@@ -11,10 +11,10 @@ namespace Task2
         static void Main(string[] args)
         {
             int[,,] arr = new int[4,5,5];
-            Three_dimensional_array_methods.Filling(arr);
-            Three_dimensional_array_methods.Print(arr);
-            Three_dimensional_array_methods.Replacement_by_zero(arr);
-            Three_dimensional_array_methods.Print(arr);
+            ArrMethods.Filling(arr);
+			ArrMethods.Print(arr);
+			ArrMethods.PositiveByZero(arr);
+			ArrMethods.Print(arr);
             Console.ReadLine();
         }
     }

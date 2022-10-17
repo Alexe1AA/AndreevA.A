@@ -8,3 +8,13 @@ C:\Users\Leshy\source\repos\lab2\lab2\bin\Debug\ClassLibrary1.dll
 C:\Users\Leshy\source\repos\lab2\lab2\bin\Debug\ClassLibrary1.pdb
 C:\Users\Leshy\source\repos\lab2\lab2\obj\Debug\Task1.csprojAssemblyReference.cache
 C:\Users\Leshy\source\repos\lab2\lab2\obj\Debug\Task1.csproj.CopyComplete
+D:\D\AndreevA.A\lab2\lab2\bin\Debug\lab2.exe.config
+D:\D\AndreevA.A\lab2\lab2\bin\Debug\lab2.exe
+D:\D\AndreevA.A\lab2\lab2\bin\Debug\lab2.pdb
+D:\D\AndreevA.A\lab2\lab2\bin\Debug\ClassLibrary1.dll
+D:\D\AndreevA.A\lab2\lab2\bin\Debug\ClassLibrary1.pdb
+D:\D\AndreevA.A\lab2\lab2\obj\Debug\Task1.csprojAssemblyReference.cache
+D:\D\AndreevA.A\lab2\lab2\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\D\AndreevA.A\lab2\lab2\obj\Debug\Task1.csproj.CopyComplete
+D:\D\AndreevA.A\lab2\lab2\obj\Debug\lab2.exe
+D:\D\AndreevA.A\lab2\lab2\obj\Debug\lab2.pdb

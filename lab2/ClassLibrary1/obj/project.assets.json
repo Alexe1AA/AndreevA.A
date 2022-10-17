@@ -3832,11 +3832,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leshy\\Desktop\\lab2\\lab2\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectUniqueName": "D:\\D\\AndreevA.A\\lab2\\ClassLibrary1\\ClassLibrary1.csproj",
       "projectName": "ClassLibrary1",
-      "projectPath": "C:\\Users\\Leshy\\Desktop\\lab2\\lab2\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectPath": "D:\\D\\AndreevA.A\\lab2\\ClassLibrary1\\ClassLibrary1.csproj",
       "packagesPath": "C:\\Users\\Leshy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leshy\\Desktop\\lab2\\lab2\\ClassLibrary1\\obj\\",
+      "outputPath": "D:\\D\\AndreevA.A\\lab2\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Leshy\\AppData\\Roaming\\NuGet\\NuGet.Config",

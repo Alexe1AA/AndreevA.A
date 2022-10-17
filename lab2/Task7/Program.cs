@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Utility1Lab2;
+using LibUtilitys;
 
 namespace Task7
 {
@@ -11,21 +11,22 @@ namespace Task7
     {
         static void Main(string[] args)
         {
-            string Input;
-            int N;
+            string input;
+            int size;
             Console.WriteLine("enter the size of the array");
-            Input = Console.ReadLine();
-            if (!(int.TryParse(Input, out N)))
+            input = Console.ReadLine();
+            if (!(int.TryParse(input, out size)))
             {
                 Console.WriteLine("the wrong type of element");
                 Console.ReadLine();
                 return;
             }
-            int[] arr = new int[N];
-            One_dimensional_array_methods.Filling(arr, "Console");
-            One_dimensional_array_methods.Print(arr);
-            One_dimensional_array_methods.BubbleSort(arr,"Down");
-            One_dimensional_array_methods.Print(arr);
+            int[] arr = new int[size];
+            ArrayMethods.FillingConsol(arr);
+            ArrayMethods.Print(arr);
+			Array.Sort(arr);
+			Array.Reverse(arr);
+            ArrayMethods.Print(arr);
             Console.ReadLine();
         }
     }

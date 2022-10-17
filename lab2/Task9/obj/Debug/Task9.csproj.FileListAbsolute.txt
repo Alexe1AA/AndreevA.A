@@ -18,3 +18,13 @@ C:\Users\Leshy\Desktop\lab2\lab2\Task9\obj\Debug\Task9.csproj.CoreCompileInputs.
 C:\Users\Leshy\Desktop\lab2\lab2\Task9\obj\Debug\Task9.csproj.CopyComplete
 C:\Users\Leshy\Desktop\lab2\lab2\Task9\obj\Debug\Task9.exe
 C:\Users\Leshy\Desktop\lab2\lab2\Task9\obj\Debug\Task9.pdb
+D:\D\AndreevA.A\lab2\Task9\bin\Debug\Task9.exe.config
+D:\D\AndreevA.A\lab2\Task9\bin\Debug\Task9.exe
+D:\D\AndreevA.A\lab2\Task9\bin\Debug\Task9.pdb
+D:\D\AndreevA.A\lab2\Task9\bin\Debug\ClassLibrary1.dll
+D:\D\AndreevA.A\lab2\Task9\bin\Debug\ClassLibrary1.pdb
+D:\D\AndreevA.A\lab2\Task9\obj\Debug\Task9.csprojAssemblyReference.cache
+D:\D\AndreevA.A\lab2\Task9\obj\Debug\Task9.csproj.CoreCompileInputs.cache
+D:\D\AndreevA.A\lab2\Task9\obj\Debug\Task9.csproj.CopyComplete
+D:\D\AndreevA.A\lab2\Task9\obj\Debug\Task9.exe
+D:\D\AndreevA.A\lab2\Task9\obj\Debug\Task9.pdb

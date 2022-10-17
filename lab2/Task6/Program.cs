@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Utility1Lab2;
+using LibUtilitys;
+using Task6.Utility;
 
 namespace Task6
 {
@@ -12,10 +13,10 @@ namespace Task6
         static void Main(string[] args)
         {
             int[] arr = new int[20];
-            One_dimensional_array_methods.Filling(arr, "Random");
-            One_dimensional_array_methods.Print(arr);
-            arr = One_dimensional_array_methods.Doubling_of_negative_elements(arr);
-            One_dimensional_array_methods.Print(arr);
+			ArrayMethods.FillingArray(arr);
+			ArrayMethods.Print(arr);
+            arr = ArrMethods.DoublNegative(arr);
+            ArrayMethods.Print(arr);
             Console.ReadLine();
         }
     }
