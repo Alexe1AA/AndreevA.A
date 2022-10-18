@@ -12,8 +12,9 @@ namespace lab2
     {
         static void Main(string[] args)
         {
-            int[]arr = new int[25];
-            ArrayMethods.FillingArray(arr);
+			const int size = 25;
+            int[]arr = new int[size];
+            ArrayMethods.FillingRandom(arr);
             ArrayMethods.Print(arr);
 			ArrMethods.BubbleSort(arr);
             ArrayMethods.Print(arr);

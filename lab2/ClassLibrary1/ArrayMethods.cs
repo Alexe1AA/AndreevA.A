@@ -8,7 +8,7 @@ namespace LibUtilitys
 {
     public static class ArrayMethods
     {
-        public static void FillingArray(int[] arr, int min = -60, int max = 60)
+        public static void FillingRandom(int[] arr, int min = -60, int max = 60)
         {
 			if (arr.Length == 0)
 			{
@@ -55,7 +55,25 @@ namespace LibUtilitys
 				}
 			}
 		}
-		      
-    }
+		public static int CountingNegative(int[] arr)
+		{
+			if (arr.Length == 0)
+			{
+				Console.WriteLine("Array is empty");
+				return 0;
+			}
+			int count = 0;
+			for (int i = 0; i < arr.Length; i++)
+			{
+				if (arr[i] < 0)
+				{
+					count++;
+				}
+			}
+			return count;
+
+		}
+
+	}
     
 }

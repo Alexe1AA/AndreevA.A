@@ -3,23 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using LibUtilitys;
 namespace Task6.Utility
 {
 	class ArrMethods
 	{
 		public static int[] DoublNegative(int[] arr)
 		{
-			int N = 0;
+			int size = 0;
 			int k = 0;
-			for (int i = 0; i < arr.Length; i++)
-			{
-				if (arr[i] < 0)
-				{
-					N += 1;
-				}
-			}
-			int[] arr1 = new int[arr.Length + N];
+
+			size = arr.Length + ArrayMethods.CountingNegative(arr);
+
+			int[] arr1 = new int[size];
 			for (int i = 0; i < arr.Length; i++)
 			{
 				if (arr[i] < 0)

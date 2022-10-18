@@ -12,7 +12,7 @@ namespace Task9
         static void Main(string[] args)
         {
             string input;
-			int size = 0;			
+			int size;			
             Console.WriteLine("enter the size of the array");
             input = Console.ReadLine();
             if (!(int.TryParse(input, out size)))

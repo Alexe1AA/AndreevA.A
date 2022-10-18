@@ -10,7 +10,8 @@ namespace Task4
     {
         static void Main(string[] args)
         {
-            int[,] arr = new int[0,0];
+			const int size = 10;
+			int[,] arr = new int[size, size];
             ArrMethods.FillingArray(arr);
 			ArrMethods.Print(arr);
 			Console.WriteLine(ArrMethods.SumOfEvenPositions(arr));            

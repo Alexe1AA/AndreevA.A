@@ -37,7 +37,7 @@ namespace Task8
                 Console.ReadLine();
                 return;
             }            
-            ArrayMethods.FillingArray(arr, 0, 10);
+            ArrayMethods.FillingRandom(arr, 0, 10);
             ArrayMethods.Print(arr);
 			ArrayMethods.Print(ArrMethods.ItemPositionNumber(arr, number));			           
             Console.ReadLine();

@@ -11,8 +11,9 @@ namespace Task3
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[10];
-			ArrayMethods.FillingArray(arr);
+			const int size = 10;
+            int[] arr = new int[size];
+			ArrayMethods.FillingRandom(arr);
 			ArrayMethods.Print(arr);
 			Console.WriteLine("Sum = " + ArrMethods.GetSum(arr));
             Console.ReadLine();

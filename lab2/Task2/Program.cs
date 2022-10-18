@@ -10,7 +10,8 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            int[,,] arr = new int[4,5,5];
+			const int size = 5;
+            int[,,] arr = new int[size, size, size];
             ArrMethods.Filling(arr);
 			ArrMethods.Print(arr);
 			ArrMethods.PositiveByZero(arr);

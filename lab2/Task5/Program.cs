@@ -11,8 +11,9 @@ namespace Task5
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[20];
-			ArrayMethods.FillingArray(arr);
+			const int size = 10;
+			int[] arr = new int[size];
+			ArrayMethods.FillingRandom(arr);
 			ArrayMethods.Print(arr);
             arr = ArrMethods.DelNegative(arr);
             ArrayMethods.Print(arr);
