@@ -15,7 +15,7 @@ namespace Task3
             int[] arr = new int[size];
 			ArrayMethods.FillingRandom(arr);
 			ArrayMethods.Print(arr);
-			Console.WriteLine("Sum = " + ArrMethods.GetSum(arr));
+			Console.WriteLine("Sum = " + ArrMethods.GetSumPositive(arr));
             Console.ReadLine();
         }
     }

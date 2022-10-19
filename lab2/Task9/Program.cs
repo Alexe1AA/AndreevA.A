@@ -24,9 +24,19 @@ namespace Task9
             int[] arr = new int[size];
             int[] arr1 = new int[size];
             Console.WriteLine("Input array1");
-            ArrayMethods.FillingConsol(arr);
+            if(!ArrayMethods.FillingConsol(arr))
+			{
+				Console.WriteLine("Введен не тот тип");
+				Console.ReadLine();
+				return;
+			}
             Console.WriteLine("Input array2");
-            ArrayMethods.FillingConsol(arr1);
+            if(!ArrayMethods.FillingConsol(arr1))
+			{
+				Console.WriteLine("Введен не тот тип");
+				Console.ReadLine();
+				return;
+			}
             if (ArrMethods.CompareArrays(arr,arr1))
             {
                 Console.WriteLine("these arrays are the same");

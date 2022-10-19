@@ -33,11 +33,9 @@ namespace lab2.utilitys
 		public static int GetMax(int[] arr)
 		{
 			if (arr.Length == 0)
-			{
-				Console.WriteLine("Array is empty");
+			{				
 				return 0;
 			}
-
 			int max = arr[0];
 			for (int i = 1; i < arr.Length; i++)
 			{
@@ -52,11 +50,9 @@ namespace lab2.utilitys
 		public static int GetMin(int[] arr)
 		{
 			if (arr.Length == 0)
-			{
-				Console.WriteLine("Array is empty");
+			{				
 				return 0;
 			}
-
 			int min = arr[0];
 			for (int i = 1; i < arr.Length; i++)
 			{

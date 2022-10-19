@@ -8,22 +8,21 @@ namespace Task8.Utility
 {
 	class ArrMethods
 	{
-		public static int[] ItemPositionNumber(int[] arr, int Number)
+		public static int[] ItemPositionNumber(int[] arr, int numder)
 		{
-			bool Flag = true;
+			bool flag = true;
 			int size = 0;
 			int count = 0;
 			for (int i = 0; i < arr.Length; i++)
 			{
-				if (arr[i] == Number)
+				if (arr[i] == numder)
 				{
-					Flag = false;
+					flag = false;
 					size += 1;					
 				}
 			}
-			if (Flag)
+			if (flag)
 			{				
-				Console.WriteLine("there are no such elements");
 				return new int[0];
 			}
 			else
@@ -31,7 +30,7 @@ namespace Task8.Utility
 				int[] arr1 = new int[size];
 				for (int i = 0; i < arr.Length; i++)
 				{
-					if (arr[i] == Number)
+					if (arr[i] == numder)
 					{
 						arr1[count] = i;
 						count++;

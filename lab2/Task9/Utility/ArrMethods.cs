@@ -10,27 +10,18 @@ namespace Task9.Utility
 	{
 		public static bool CompareArrays(int[] arr1, int[] arr2)
 		{
-			bool Flag = true;
-			if(arr1.Length == 0 || arr2.Length == 0)
-			{
-				Console.WriteLine("Array is empty");
-				return false;
-			}
+			bool flag = true;			
 			Array.Sort(arr1);
 			Array.Sort(arr2);
 			for (int i = 0; i < arr1.Length; i++)
 			{
-				if (arr1[i] == arr2[i])
+				if (arr1[i] != arr2[i])
 				{
-					Flag = true;
-				}
-				else
-				{
-					Flag = false;
+					flag = false;
 					break;
-				}
+				}				
 			}
-			return Flag;
+			return flag;
 		}
 	}
 }

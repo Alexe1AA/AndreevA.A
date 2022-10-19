@@ -10,12 +10,6 @@ namespace Task2.Utility
 	{
 		public static void Filling(int[,,] arr, int min = -60, int max = 60)
 		{
-			if (arr.GetLength(0) == 0)
-			{
-				Console.WriteLine("Array is empty");
-				return;
-			}
-
 			Random randomGenerator = new Random();
 
 			for (int i = 0; i < arr.GetLength(0); i++)
@@ -32,11 +26,12 @@ namespace Task2.Utility
 		}
 		public static void Print(int[,,] arr)
 		{
-			if (arr.GetLength(0) == 0)
+			if (arr.GetLength(0) == 0 && arr.GetLength(1) == 0 && arr.GetLength(2) == 0)
 			{
 				Console.WriteLine("Array is empty");
 				return;
 			}
+			Console.WriteLine("Print");
 			for (int i = 0; i < arr.GetLength(0); i++)
 			{
 				Console.WriteLine();
@@ -60,7 +55,7 @@ namespace Task2.Utility
 				{
 					for (int k = 0; k < arr.GetLength(2); k++)
 					{
-						if (arr[i, j, k] < 0)
+						if (arr[i, j, k] > 0)
 						{
 							arr[i, j, k] = 0;
 						}

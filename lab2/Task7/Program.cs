@@ -22,7 +22,12 @@ namespace Task7
                 return;
             }
             int[] arr = new int[size];
-            ArrayMethods.FillingConsol(arr);
+            if(!ArrayMethods.FillingConsol(arr))
+			{
+				Console.WriteLine("Введен не тот тип");
+				Console.ReadLine();
+				return;
+			}
             ArrayMethods.Print(arr);
 			Array.Sort(arr);
 			Array.Reverse(arr);
