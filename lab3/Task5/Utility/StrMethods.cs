@@ -10,7 +10,7 @@ namespace Task5.Utility
 	{
 		public static MatchCollection DateCollection(string str)
 		{
-			string patterndate = @"(?<1>[0][1-9]|[12][0-9]|[3][01])-(?<2>[0][1-9]|[1][0-2])-(?<3>[0-9]{4})";
+			string patterndate = @"(?<day>[0][1-9]|[12][0-9]|[3][01])-(?<month>[0][1-9]|[1][0-2])-(?<year>[0-9]{4})";
 			MatchCollection dates = Regex.Matches(str, patterndate);		
 			
 			return dates;
@@ -19,8 +19,8 @@ namespace Task5.Utility
 		{
 			foreach (Match match in matchCollection)
 			{
-				Console.WriteLine($"{ match.Value}, где день = {match.Groups["1"]}, " +
-					$"месяц = {match.Groups["2"]}, год = {match.Groups["3"]}");
+				Console.WriteLine($"{ match.Value}, где день = {match.Groups["day"]}, " +
+					$"месяц = {match.Groups["month"]}, год = {match.Groups["year"]}");
 			}
 		}
 	}

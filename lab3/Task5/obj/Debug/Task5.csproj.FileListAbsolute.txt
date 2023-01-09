@@ -5,3 +5,10 @@ C:\Users\Leshy\source\repos\lab3\Task5\obj\Debug\Task5.csprojAssemblyReference.c
 C:\Users\Leshy\source\repos\lab3\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
 C:\Users\Leshy\source\repos\lab3\Task5\obj\Debug\Task5.exe
 C:\Users\Leshy\source\repos\lab3\Task5\obj\Debug\Task5.pdb
+D:\D\AndreevA.A\lab3\Task5\bin\Debug\Task5.exe.config
+D:\D\AndreevA.A\lab3\Task5\bin\Debug\Task5.exe
+D:\D\AndreevA.A\lab3\Task5\bin\Debug\Task5.pdb
+D:\D\AndreevA.A\lab3\Task5\obj\Debug\Task5.csprojAssemblyReference.cache
+D:\D\AndreevA.A\lab3\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+D:\D\AndreevA.A\lab3\Task5\obj\Debug\Task5.exe
+D:\D\AndreevA.A\lab3\Task5\obj\Debug\Task5.pdb
